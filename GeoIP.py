@@ -9,7 +9,7 @@ import gzip
 if not os.access('/usr/share/GeoIP/', os.F_OK):
     print("*" * 46)
     print("You don't have GeoIP installed on your machine")
-    print("Please, first install it")
+    print("Please install it first")
     print("*" * 46)
     sys.exit()
 
