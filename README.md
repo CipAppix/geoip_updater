@@ -16,7 +16,7 @@ This is a simple script that updates your GeoIP database
 
 It's a good idea to have this in a cron like this:
 
-5 8 * * 6 python /pathto/geoip_updater.py
+5 8 * * 6 sudo python /pathto/geoip_updater.py
 
 
 
