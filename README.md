@@ -2,7 +2,7 @@
 
 # Credit
 
-A have use a part of code from here: http://stackoverflow.com/questions/9628770/how-can-i-download-a-file-to-a-specific-directory
+I had used a part of code from here: http://stackoverflow.com/questions/9628770/how-can-i-download-a-file-to-a-specific-directory
 
 # Requirement
 
